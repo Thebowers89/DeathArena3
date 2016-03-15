@@ -1,0 +1,16 @@
+name: DeathArena3
+main: DeathArena3.DeathArenaMain
+version: 0
+commands:
+    addarena:
+        usage:
+        description:
+    configarena:
+        usage:
+        description:
+    reloadarenas:
+        usage:
+        description:
+    setcommonarea:
+        usage:
+        description:
